@@ -25,8 +25,8 @@ They need housing :
 
 You can play with all these aspects by simply manipulating txt files.
 
-##Files and directory structures
-
+## Files and directory structures
+```
 ├── cultures
 │   ├── norman
 │   │   ├── buildings       | contains all generated buildings
@@ -66,8 +66,19 @@ You can play with all these aspects by simply manipulating txt files.
 │   ├── worldquest-indian
 │   ├── worldquest-mayan
 │   └── worldquest-norman
-└── villagerconfig
+└── villagerconfig 
+├── blocklist.txt | Don't know
+├── blocktypes.txt | Allows to whitelist blocks so they can build or spawn on it (can be useful when encountering problems with other mods)
+├── Colour Sheet.png
+├── config-server.txt
+├── config.txt
+├── Content creation readme.txt
+├── hof.txt
+├── itemlist.txt
+├── version.txt
+└── WARNING - changes here will be overwritten on update.txt
 
+```
 
 
 
@@ -80,6 +91,5 @@ This folder contains all the base files of every cultures, again it's all really
 
 #### folder '/mods/millénaire-custom'
 It's here that you will add things !
-
 
 
