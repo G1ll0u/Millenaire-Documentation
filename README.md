@@ -1,4 +1,4 @@
-# Millenaire-fixes
+# Millenaire-documentation
 #### A WIP documentation and tweaking project about our old Millénaire 1.12.2 mod
 
 Fixes, tweaks and documentation about Millénaire mod 1.12.2
