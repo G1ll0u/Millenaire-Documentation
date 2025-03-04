@@ -1,13 +1,23 @@
 # Millenaire-documentation
 #### A WIP documentation and tweaking project about our old Millénaire 1.12.2 mod
 
-Fixes, tweaks and documentation about Millénaire mod 1.12.2
+Fixes, tweaks and documentation about Millénaire mod 1.12.2 
 Here will simply be some things I do for the good old Millénaire mod. My goal is to make some documentation and edit cultures to fix bugs or add features.
 
 Mainly focused on controlled villages.
+## What is Millénaire ?
+Millénaire is an old Minecraft mod that adds villages and reputation or quests in Minecraft (1.12.2 currently). By default, the mod generates villages like Minecraft do for normal villagers. Every villager has a role and goals assigned, you can also create your own village assign every building to villagers. Every villager has a role and goals assigned to this role and you can customize a lot of things here.
 
-I'm not a developer, I just take advantage of how good this mod is made because every file related to culture is simple plain text 
+There are normal villages, controlled villages and custom controlled villages :
+## normal villages
+It generates when you discover the world, you can interact with it by doing quests and do trading. They will need resources to build new buildings or upgrade existing ones. 
 
+## Controlled villages
+When your reputation is for a specific culture, you will be able, when talking to the boss of this culture village, to request to be a 
+
+I'm not a developer, I just take advantage of how good this mod is made because every file that helps customize the mod is simple plain text files.
+
+I will explain here how to customize Millénaire, 
 ## Introduction to how Millénaire cultures work
 The principle of millénaire is that you have cultures :
 **byzantines**  **indian**  **inuits**  **japanese**  **mayan**  **norman**  **seljuk**
