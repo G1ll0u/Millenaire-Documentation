@@ -34,8 +34,10 @@ Their housing :
 **armoury bakery quarry**
 
 You can play with all these aspects by simply manipulating txt files.
-* You can create or edit goals
-
+* You can create an entire culture
+* edit and create goals 
+* create or edit properties of buildings for normal, controlled or custom controlled villages
+* 
 ### Deployment
 When you install Millénaire for the first time, it deploys all its cultures data and settings in '/mods/millénaire' AND '/mods/millenaire-custom'.
 
