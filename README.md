@@ -72,6 +72,7 @@ in '/mods/millénaire-custom/mods', you can create folders and each folder will 
 Here is the directory tree of /mods/millénaire with simple explanations :
 
 ```
+├──────────────────────────────────────────────────────────────────────────────────────────────────────────
 /millenaire
 ├── cultures | folder that contains all cultures (I only listed normans here)
 │   ├── norman
@@ -83,23 +84,23 @@ Here is the directory tree of /mods/millénaire with simple explanations :
 │   │   ├── villagers       | contains all villagers types (wife, farmer etc.)
 │   │   ├── villages        | contains villages configuration files
 │   │   └── walls           | contains walls related things
-├── goals | contains all goals for every culture / villagers !
-│   ├── genericcooking | cooking goals
-│   ├── genericcrafting | crafting goals
+├── goals             | contains all goals for every culture / villagers !
+│   ├── genericcooking      | cooking goals
+│   ├── genericcrafting     | crafting goals
 │   ├── genericgatherblocks | etc.
 │   ├── genericharvesting 
 │   ├── genericmining
 │   ├── genericplanting
 │   ├── genericplantsapling
 │   ├── genericslaughteranimal
-│   ├── generictakefrombuilding | resource transport from building ?
+│   ├── generictakefrombuilding 
 │   ├── generictendfurnace
-│   └── genericvisit | goals like "goDrinkCider
-├── help | helpful documentation
-├── languages | contains all string of text, I didn't try for the moment but I think that when you create custom
+│   └── genericvisit        | goals like "goDrinkCider
+├── help             | helpful documentation
+├── languages        | contains all strings of text, I didn't try for the moment but I think that when you create custom
 goals, you can edit what text that will be shown above the villager when he does this goal.
 │ 
-├── quests | quests related stuff
+├── quests           | quests related stuff
 │   ├── byzantinesbasic
 │   ├── common
 │   ├── indianbasic
@@ -112,18 +113,17 @@ goals, you can edit what text that will be shown above the villager when he does
 │   ├── worldquest-indian
 │   ├── worldquest-mayan
 │   └── worldquest-norman
-└── villagerconfig | how villagers will behave about items (what sword type should I take in priority ? Diamond one
-yeah !) I think you can add modded items 
-├── blocklist.txt | Don't know
-├── blocktypes.txt | Allows to whitelist blocks so they can build or spawn on it (can be useful when encountering
+└── villagerconfig     | how villagers will behave about items (what sword type should I take in priority ?)
+I think you can add modded items 
+├── blocklist.txt 
+├── blocktypes.txt     | Allows to whitelist/blacklist blocks so they can build or spawn on it (can be useful when encountering
 problems with other mods)
 ├── Colour Sheet.png
-├── config-server.txt | default server config file
-├── config.txt | default client config file
-├── Content creation readme.txt
-├── hof.txt | hall of fame
-├── itemlist.txt | list of items
-├── version.txt
-└── WARNING - changes here will be overwritten on update.txt
+├── config-server.txt  | default server config file
+├── config.txt         | default client config file
+├── hof.txt            | hall of fame
+├── itemlist.txt       | list of items
+├── version.txt        | Don't touch it
+├────────────────────────────────────────────────────────────────────────────────────────────────────────────
 ```
 
