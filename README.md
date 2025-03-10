@@ -81,7 +81,7 @@ Here is the directory tree of /mods/millénaire with simple explanations :
 │   │   ├── villagers       | contains all villagers types (wife, farmer etc.)
 │   │   ├── villages        | contains villages configuration files
 │   │   └── walls           | contains walls related things
-├── goals             | contains all goals for every culture / villagers !
+├── goals                   | contains all goals for every culture / villagers !
 │   ├── genericcooking      | cooking goals
 │   ├── genericcrafting     | crafting goals
 │   ├── genericgatherblocks | etc.
@@ -101,14 +101,14 @@ Here is the directory tree of /mods/millénaire with simple explanations :
 └── villagerconfig          | how villagers will behave about items (what sword type should I take in priority ?)
 |                             I think you can add modded items 
 ├── blocklist.txt 
-├── blocktypes.txt     | Allows to whitelist/blacklist blocks so they can build or spawn on it (can be useful when encountering
-|                        problems with other mods)
+├── blocktypes.txt          | Allows to whitelist/blacklist blocks so they can build or spawn on it (can be useful when encountering
+|                             problems with other mods)
 ├── Colour Sheet.png
-├── config-server.txt  | default server config file
-├── config.txt         | default client config file
-├── hof.txt            | hall of fame
-├── itemlist.txt       | list of items
-├── version.txt        | Don't touch it
+├── config-server.txt       | default server config file
+├── config.txt              | default client config file
+├── hof.txt                 | hall of fame
+├── itemlist.txt            | list of items
+├── version.txt             | Don't touch it
 ├────────────────────────────────────────────────────────────────────────────────────────────────────────────
 ```
 
