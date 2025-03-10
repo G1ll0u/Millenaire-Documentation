@@ -1,9 +1,5 @@
 # Millenaire-documentation
-## A WIP documentation about our good old Millénaire 1.12.2 mod
-
-Fixes, tweaks and documentation about Millénaire mod 1.12.2 
-
-Oh, and note that this mod is ARR and I think that 1.12.2 version won't get updated anymore. I hope they will make this version open source...
+## WIP documentation about our good old Millénaire 1.12.2 mod
 
 This documentation  is mainly focused on controlled villages and custom controlled villages.
 
