@@ -46,7 +46,8 @@ Every villagers have goals here are some :
 **makeBread plantWheat harvestWheat childEatApples goDrinkCider**
 
 Their housing :
-**armoury bakery quarry**
+**armoury bakery quarry**      <-- Normal buildings
+**custom_farm custom_akery**   <-- Custom buildings
 
 You can play with all these aspects by simply manipulating txt files.
 
@@ -92,28 +93,16 @@ Here is the directory tree of /mods/millénaire with simple explanations :
 │   ├── generictakefrombuilding 
 │   ├── generictendfurnace
 │   └── genericvisit        | goals like "goDrinkCider
-├── help             | helpful documentation
-├── languages        | contains all strings of text, I didn't try for the moment but I think that when you create custom
-goals, you can edit what text that will be shown above the villager when he does this goal.
+├── help                    | helpful documentation
+├── languages               | contains all strings of text, I didn't try for the moment but I think that when you create custom
+|                             goals, you can edit what text that will be shown above the villager when he does this goal.
 │ 
-├── quests           | quests related stuff
-│   ├── byzantinesbasic
-│   ├── common
-│   ├── indianbasic
-│   ├── inuitbasic
-│   ├── japanesebasic
-│   ├── marvel-norman
-│   ├── mysterybasic
-│   ├── normanbasic
-│   ├── seljukbasic
-│   ├── worldquest-indian
-│   ├── worldquest-mayan
-│   └── worldquest-norman
-└── villagerconfig     | how villagers will behave about items (what sword type should I take in priority ?)
-I think you can add modded items 
+├── quests                  |  quests related stuff
+└── villagerconfig          | how villagers will behave about items (what sword type should I take in priority ?)
+|                             I think you can add modded items 
 ├── blocklist.txt 
 ├── blocktypes.txt     | Allows to whitelist/blacklist blocks so they can build or spawn on it (can be useful when encountering
-problems with other mods)
+|                        problems with other mods)
 ├── Colour Sheet.png
 ├── config-server.txt  | default server config file
 ├── config.txt         | default client config file
