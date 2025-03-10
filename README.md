@@ -29,7 +29,7 @@ When your reputation is high enough for a specific culture, you will be able, wh
 
 Controlled village is simply a village that you generate where you want by using the wand of creation on a golden block. There will be no chief villager because YOU are the chgief and you can order villagers to create buildings at specific places with your wand.
 
-### Custom controlled villages
+## Custom controlled villages
 
 Custom controlled villages are normal villages but it lets you create a custom village centre (townhall). It makes you spawn 3 male and 3 female teenagers, that will grow up in the houses you assign to them that you built yourself or ordered them to build.
 
