@@ -14,7 +14,7 @@ Create or edit goals that are followed by villagers (like harvest wood)
 Create or edit entire cultures
 Create new villagers
 
-
+By the way, check out my addon that tweaks existing cultures: https://github.com/G1ll0u/Millenaire-fixes/
 
 ## What is Millénaire ?
 Millénaire is an old Minecraft mod that adds villages and reputation or quests in Minecraft (1.12.2 currently). By default, the mod generates villages like Minecraft do for normal villagers. Every villager has a role and goals assigned, you can also create your own village assign every building to villagers. Every villager has a role and goals assigned to this role and you can customize a lot of things here.
@@ -54,7 +54,7 @@ You can play with all these aspects by simply manipulating txt files.
 When you install Millénaire for the first time, it deploys all its cultures data and settings in '/mods/millénaire' AND '/mods/millenaire-custom'.
 
 #### folder /mods/millénaire
-"The /mods/millenaire/ directory is auto-deployed by Millénaire. **Be careful, updating the mod erases all changes made to it.**
+"The /mods/millenaire/ directory is auto-deployed by Millénaire. **Be careful, updating the mod erases all changes made to this directory.**
 This folder contains all the base files of every cultures, again it's all really human readable plain text, it will help when creating a culture.
 
 Do not edit any of these txt files 
@@ -64,7 +64,7 @@ It's here that you will add things !
 in '/mods/millénaire-custom/mods', you can create folders and each folder will be loaded by Millénaire as an add-on. 
 
 
-## Files and directory structures
+## Files and directory structures with some explanations
 Here is the directory tree of /mods/millénaire with simple explanations :
 
 ```
